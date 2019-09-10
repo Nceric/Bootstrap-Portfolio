@@ -34,3 +34,15 @@ margin-top: 6px;
 margin-bottom: 16px;
 resize: vertical
 }
+
+.container-sip {
+  text-align: left;
+  margin-right: 65%;
+  
+}
+
+#sipjpg {
+margin-right: auto;
+margin-left: auto;
+text-align: left;
+}
